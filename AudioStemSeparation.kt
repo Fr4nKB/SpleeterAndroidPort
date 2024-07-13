@@ -1,5 +1,3 @@
-package com.frank.glyphify.glyph
-
 import android.content.Context
 import android.util.Log
 import com.arthenica.ffmpegkit.FFmpegKit
